@@ -1,5 +1,5 @@
 # Hi 👋, I'm M Irsyad
-**I'm Junior Frontend development and UI-UX Design**
+<!--**I'm Junior Frontend development and UI-UX Design**-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dac.1) 
