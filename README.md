@@ -1,4 +1,4 @@
-# Hi 👋, I'm M Irsyad
+# Hi 👋, I'm Muhammad Irsyad Mubarok
 <!--**I'm Junior Frontend development and UI-UX Design**-->
 
 ## 🌐 Socials:
